@@ -1,2 +1,41 @@
-UserInterfaceState.xcuserstate
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# User-specific files
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# Carthage
+/Carthage/Build/
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots
+
+# Code coverage
+/xcov_report/
+
+# Dependency Manager
+/Package.resolved
+
+# SwiftPM
+/.swiftpm/
 
