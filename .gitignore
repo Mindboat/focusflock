@@ -19,6 +19,9 @@ Podfile.lock
 # User-specific files
 *.xcuserstate
 
+# Firebase
+focusflock/GoogleService-Info.plist
+
 # Swift Package Manager
 .build/
 
