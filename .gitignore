@@ -20,7 +20,7 @@ Podfile.lock
 *.xcuserstate
 
 # Firebase
-focusflock/GoogleService-Info.plist
+focusflock.xcdatamodeld/GoogleService-Info.plist
 
 # Swift Package Manager
 .build/
@@ -42,3 +42,4 @@ focusflock/GoogleService-Info.plist
 # SwiftPM
 /.swiftpm/
 
+focusflock.xcodeproj/project.xcworkspace/xcuserdata/gracexu.xcuserdatad/UserInterfaceState.xcuserstate
